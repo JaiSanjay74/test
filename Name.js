@@ -1,5 +1,6 @@
 function GetUserName(){
-   return prompt("Enter name :")
+   return "Hi," + prompt("Enter name :")
 }
 
 console.log(GetUserName())
+
